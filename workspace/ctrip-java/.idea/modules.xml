@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ctrip-java.iml" filepath="$PROJECT_DIR$/ctrip-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanote/javanote.iml" filepath="$PROJECT_DIR$/javanote/javanote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-note/springnote.iml" filepath="$PROJECT_DIR$/spring-note/springnote.iml" />
+    </modules>
+  </component>
+</project>

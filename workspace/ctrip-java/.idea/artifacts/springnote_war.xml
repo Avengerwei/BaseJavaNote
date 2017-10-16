@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springnote:war">
+    <output-path>$PROJECT_DIR$/spring-note/target</output-path>
+    <root id="archive" name="spring-note.war">
+      <element id="artifact" artifact-name="springnote:war exploded" />
+    </root>
+  </artifact>
+</component>
